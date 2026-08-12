@@ -203,6 +203,9 @@ The main objectives of this project are:
 
 QA Engineer | Software Testing | Test Automation
 
+
+Feel free to reach out for collaborations or feedback: [LinkedIn](https://www.linkedin.com/in/emmanuelgerodrigues).
+
 ---
 
 ### Disclaimer
