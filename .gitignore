@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+config/.env
+
+# Robot Framework results
+results/
+output.xml
+log.html
+report.html
+
+# VS Code
+# .vscode/

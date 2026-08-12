@@ -1,0 +1,7 @@
+{
+    "robotcode.robot.paths": [
+        "${workspaceFolder}\\tests"
+    ],
+    "robotcode.python.executable": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+    "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe"
+}

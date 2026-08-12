@@ -1,0 +1,10 @@
+[tool.robocop.lint]
+configure = [
+    "wrong-case-in-keyword-name.convention=first_word_capitalized",
+    "wrong-case-in-keyword-call.convention=first_word_capitalized"
+]
+
+ignore = [
+    "empty-line-after-section",
+    "missing-doc-keyword"
+]
